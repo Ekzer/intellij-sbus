@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ekzer.intellijsbus.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ekzer.intellijsbus.MyBundle
 
 class MyApplicationService {
 
